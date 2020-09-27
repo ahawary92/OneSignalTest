@@ -1,0 +1,15 @@
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csprojAssemblyReference.cache
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.runtimeconfig.json
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.runtimeconfig.dev.json
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.genruntimeconfig.cache
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+C:\Users\a.alhory\Source\repos\OneSignalApp\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
