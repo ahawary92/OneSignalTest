@@ -1,4 +1,8 @@
-﻿using System.Net;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Threading.Tasks;
 using Core.Services;
 using Core.Domain;
 using Microsoft.AspNetCore.Mvc;
@@ -18,7 +22,7 @@ namespace OneSignalApp.Controllers
         }
 
         [HttpGet]
-        [AllowAnonymous]
+        [Authorize]
         public IActionResult Get()
           => StatusCode((int)HttpStatusCode.OK, _oneSignalService.ViewAllApps());
 
